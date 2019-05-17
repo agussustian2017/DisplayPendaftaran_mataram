@@ -1,3 +1,3 @@
 #!/bin/bash
 git pull
-"C:\DisplayPendaftaran\DisplayAntrian.exe" $1 &
+"C:\displayPendaftaran_mataram\DisplayAntrianMataram 1900x1080.exe" $1 &
